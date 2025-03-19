@@ -1,0 +1,15 @@
+{
+    "name": "mjees/tests",
+    "autoload": {
+        "psr-4": {
+            "Mjees\\Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marie",
+            "email": "mje.espinosa@gmail.com"
+        }
+    ],
+    "require": {}
+}
