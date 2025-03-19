@@ -18,8 +18,23 @@ voir  [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/tests/
 ### Tests e2e
 
 Les tests E2E ont été réalisés pour simuler des interactions utilisateur complètes.
+Utilisation du plugin de Selenium IDE sur Firefox
 
-voir [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex1.js)
+
+1- Chargement du fichier HTML pour les tests e2e  
+
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/setup.png)
+
+2- Ajout d'une tâche  
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/ajout%20tache.png)
+
+3- Lister les tâches  
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/lister%20tache.png)
+
+4- Supprimer une tâche  
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/supprimer%20tache.png)
+
+voir ici tout le fichier test [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex1.js)
 
 ```
 npm install
@@ -31,7 +46,12 @@ npm run test
 
 
 ### Tests de Non-Régression
-voir [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex2.js)
+voir ici tout le fichier test [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex2.js)
+
+On a pu remarquer que au refresh, la longueur de la liste des taches est toujours la même, par exemple : 
+
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/reload.png)
+
 
 ![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-03-19%20140030.png)
 
