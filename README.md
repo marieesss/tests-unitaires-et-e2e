@@ -14,6 +14,13 @@
 
 ## Problèmes détectés et solutions proposées
 
+Problème 1 : Le fichier HTML n'était pas sur un serveur pour les tests e2e ou de non régression
+Solution 1 : Utilisation de l'extension LiveServer ou sur node 
+
+```
+npx serve .
+```
+
 ## Conclusion
 
 -----------------------------------------------
