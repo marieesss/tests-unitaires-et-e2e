@@ -4,9 +4,9 @@
 
 L’objectif de ce rapport est de valider les fonctionnalités de l’application à travers différents types de tests. L’application permet aux utilisateurs d’ajouter, modifier et supprimer des tâches.
 
-Les outils utilisés pour les tests sont :
-• PHPUnit pour les tests unitaires et fonctionnels
-• Selenium pour les tests e2e
+Les outils utilisés pour les tests sont :  
+• PHPUnit pour les tests unitaires et fonctionnels  
+• Selenium pour les tests e2e  
 
 ## Résultats des Tests
 
@@ -37,6 +37,16 @@ voir [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex2
 
 
 ### Tests de Performance avec JMeter/k6
+
+#### Structure
+
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/structure.png)
+
+
+#### Résultats
+
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/test%20results.png)
+
 
 ## Problèmes détectés et solutions proposées
 
