@@ -40,6 +40,8 @@ voir [ici](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/e2e/ex2
 
 #### Structure
 
+![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/general.png)
+
 ![alt text](https://github.com/marieesss/tests-unitaires-et-e2e/blob/main/structure.png)
 
 
